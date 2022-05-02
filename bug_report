@@ -1,1 +1,10 @@
-
+<report id="322081">
+    <update>
+      <when>1136120073</when>
+      <what>Certain div elements shifted by several picture in fx on linux</what>
+    </update>
+    <update>
+      <when>1136120443</when>
+      <what>Certain div elements shifted by several pixels in fx on linux</what>
+    </update>
+  </report>
